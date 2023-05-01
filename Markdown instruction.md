@@ -15,7 +15,7 @@
 ## Работа с изображениями
 
 Чтобы вставить изображение в текст пишем:
-![Hi my name is Charmi](Charmi.jpg)git
+![Hi my name is Charmi](Charmi.jpg)
 
 ## Ссылки 
 
